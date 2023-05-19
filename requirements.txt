@@ -1,0 +1,10 @@
+spotipy==2.18.0
+pandas==1.3.5
+ffmpeg-python==0.2.0
+google-cloud-storage==1.41.0
+Flask==2.1.1
+Flask-Cors==3.0.10
+gunicorn==20.1.0
+schedule==1.1.0
+pydub==0.25.1
+exportify
